@@ -1,3 +1,7 @@
+![alt-text](https://github.com/TheCodersDream/Pokemons-MyPokeDEX-Angular6-Bootstrap4/blob/master/Screenshot_17.png)
+![alt-text](https://github.com/TheCodersDream/Pokemons-MyPokeDEX-Angular6-Bootstrap4/blob/master/Screenshot_18.png)
+![alt-text](https://github.com/TheCodersDream/Pokemons-MyPokeDEX-Angular6-Bootstrap4/blob/master/Screenshot_19.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
